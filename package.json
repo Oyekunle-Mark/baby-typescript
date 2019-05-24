@@ -1,0 +1,22 @@
+{
+  "name": "first_steps_in_typescript",
+  "version": "1.0.0",
+  "description": "This repository contains my first Typescript codes. Bare with me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oyekunle-Mark/baby-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oyekunle-Mark/baby-typescript/issues"
+  },
+  "homepage": "https://github.com/Oyekunle-Mark/baby-typescript#readme",
+  "devDependencies": {
+    "tslint": "^5.16.0"
+  }
+}
