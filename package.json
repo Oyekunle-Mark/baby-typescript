@@ -4,7 +4,7 @@
   "description": "This repository contains my first Typescript codes. Bare with me.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "npx tslint *.ts"
   },
   "repository": {
     "type": "git",
